@@ -1,0 +1,20 @@
+{
+  "name": "flag-api",
+  "version": "1.0.0",
+  "description": "Api of the flags of the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jzunigarce/flag-api"
+  },
+  "keywords": [
+    "Api",
+    "nodejs",
+    "express"
+  ],
+  "author": "Jesús Antonio Zúñiga Arce <jzunigarce@gmail.com>",
+  "license": "MIT"
+}
